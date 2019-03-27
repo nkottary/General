@@ -1,0 +1,4 @@
+authors = ["Nathan Daly <nhdaly@gmail.com>"]
+name = "TestRepo"
+repo = "https://github.com/rai-nhdaly/TestRepo.jl.git"
+uuid = "1d322cce-50b1-11e9-17aa-0b4f93023c61"
