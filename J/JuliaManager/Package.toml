@@ -1,0 +1,4 @@
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com>"]
+name = "JuliaManager"
+repo = "https://github.com/tkf/JuliaManager.jl.git"
+uuid = "0cdbb3b1-e653-5045-b8d5-b31a04c2a6c9"
