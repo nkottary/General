@@ -1,3 +1,5 @@
+authors = ["Christian Peel <chris.peel@ieee.org>"]
+keywords = ["lattice reduction", "LLL", "Seysen", "closest vector problem"]
 name = "LLLplus"
-uuid = "142c1900-a1c3-58ae-a66d-b187f9ca6423"
 repo = "https://github.com/christianpeel/LLLplus.jl.git"
+uuid = "142c1900-a1c3-58ae-a66d-b187f9ca6423"
