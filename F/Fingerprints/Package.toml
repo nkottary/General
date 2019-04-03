@@ -1,0 +1,4 @@
+authors = ["Jan Weidner <jw3126@gmail.com>"]
+name = "Fingerprints"
+repo = "https://github.com/jw3126/Fingerprints.jl.git"
+uuid = "755b2adf-adc1-55e3-be93-2004fcc58174"
