@@ -1,0 +1,4 @@
+authors = ["Jan Magnusson <jan.magnusson@gmail.com>"]
+name = "VannModels"
+repo = "https://github.com/jannefiluren/VannModels.jl.git"
+uuid = "26b386a0-5622-11e9-3ee7-f1bbe84c80da"
