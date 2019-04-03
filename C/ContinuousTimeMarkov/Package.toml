@@ -1,0 +1,4 @@
+authors = ["Tamas K. Papp <tkpapp@gmail.com>"]
+name = "ContinuousTimeMarkov"
+repo = "https://github.com/tpapp/ContinuousTimeMarkov.jl.git"
+uuid = "eab40c8d-01e0-5a99-916a-641eeda4da29"
