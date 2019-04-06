@@ -1,0 +1,4 @@
+authors = ["Mahdi Zakizadeh <mahdizakizadeh.me@gmail.com>"]
+name = "LSMTree"
+repo = "https://github.com/mahdizakizadeh/LSMTree.jl.git"
+uuid = "b3d7e270-312d-11e9-29de-ab67f25bb4a9"
