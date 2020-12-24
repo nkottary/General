@@ -1,0 +1,4 @@
+name = "NestedTest"
+uuid = "e84b3b66-0c93-4390-a5d7-e0f2022e40ed"
+repo = "https://github.com/registratortestorg/TestReg.git"
+subdir = "nest"
