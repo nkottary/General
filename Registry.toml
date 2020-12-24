@@ -1239,6 +1239,7 @@ some amount of consideration when choosing package names.
 785d7830-48c5-59de-ae5e-7712913079e9 = { name = "Bitcoin", path = "B/Bitcoin" }
 7869d1d1-7146-5819-86e3-90919afe41df = { name = "IRTools", path = "I/IRTools" }
 7876af07-990d-54b4-ab0e-23690620f79a = { name = "Example", path = "E/Example" }
+7876af07-990d-54b4-ab0e-23690620f79b = { name = "PrivateExample", path = "P/PrivateExample" }
 787d08f9-d448-5407-9aad-5290dd7ab264 = { name = "ImageMorphology", path = "I/ImageMorphology" }
 789caeaf-c7a9-5a7d-9973-96adeb23e2a0 = { name = "StochasticDiffEq", path = "S/StochasticDiffEq" }
 78c3b35d-d492-501b-9361-3d52fe80e533 = { name = "Mocking", path = "M/Mocking" }
